@@ -1,0 +1,1 @@
+# Sentimental-Analysis-using-News-Headlines-of-Stocks
